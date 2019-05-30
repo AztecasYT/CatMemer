@@ -297,4 +297,4 @@ if (command === 'meme') {
 });
   
 
-client.login("BOT_TOKEN");
+client.login(procces.env.BOT_TOKEN);
